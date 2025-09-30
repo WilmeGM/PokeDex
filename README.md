@@ -1,5 +1,5 @@
 # PokeDex
-
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/55a66a29-97f3-4259-9be2-916a34db920d" />
 This project is a **Pokémon browser** built with **Ignition Perspective** and powered by the [PokéAPI](https://pokeapi.co/).  
 It demonstrates how to fetch, filter, and display Pokémon data in a modern and interactive interface.
 

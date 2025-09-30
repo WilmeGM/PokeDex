@@ -71,7 +71,7 @@ def build_pokemon_cards(pokemons, isFiltered=False):
 ## 📸 Preview (Example)
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/55a66a29-97f3-4259-9be2-916a34db920d" />
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/d3e404f2-d716-41d5-92a8-fd1c0fbb1554" />
-<img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/402b6a99-e68e-4ae3-a7ce-d68ec2c01d06" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/402b6a99-e68e-4ae3-a7ce-d68ec2c01d06" />
 
 Pokémon and related content are © Nintendo, Game Freak, and The Pokémon Company.  
 PokéAPI is a free and open-source RESTful API for Pokémon data.  
